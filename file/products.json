@@ -7,14 +7,5 @@
     "code": "P1",
     "stock": 20,
     "id": 1
-  },
-  {
-    "title": "Pelacables",
-    "description": "Pelacables hasta 6mm",
-    "price": 8000,
-    "thumbnail": "path/to/product2.jpg",
-    "code": "P2",
-    "stock": 20,
-    "id": 3
   }
 ]

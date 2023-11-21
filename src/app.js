@@ -1,6 +1,6 @@
 const ProductManager = require('./ProductManager');
 
-const productManager = new ProductManager('products.json');
+const productManager = new ProductManager('file/products.json');
 
 // Agregar un nuevo producto
 const product1 = {
